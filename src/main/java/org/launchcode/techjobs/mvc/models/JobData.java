@@ -230,5 +230,6 @@ public class JobData {
         return allCoreCompetency;
     }
 
+
 }
 
